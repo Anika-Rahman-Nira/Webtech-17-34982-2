@@ -1,0 +1,43 @@
+body
+{
+    background-image: url('back-2.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.frmdesign
+{
+    position: fixed; 
+    border-style: solid;
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    padding-top: 30px;
+    top: 18%;
+    left: 41%;
+    border-radius: 10px;
+    background-color: black;
+    font-size: 16px;
+    margin: 0 auto;
+
+}
+.inputf
+{
+  padding: 5px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.btn
+{
+    background-color: white;
+    width: 40%;
+    border-radius: 5px;
+}
+.btn:hover
+{
+    background-color:green;
+    cursor: pointer;
+}
